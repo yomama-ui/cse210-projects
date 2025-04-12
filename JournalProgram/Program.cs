@@ -49,7 +49,5 @@ class Program
                     break;
             }
         }
-
-        // Exceeds requirements: adds a timestamp and unique entry ID to each saved journal entry.
     }
 }

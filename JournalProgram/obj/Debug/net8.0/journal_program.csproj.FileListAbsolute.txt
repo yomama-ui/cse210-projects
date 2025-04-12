@@ -1,0 +1,15 @@
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\bin\Debug\net8.0\journal_program.exe
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\bin\Debug\net8.0\journal_program.deps.json
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\bin\Debug\net8.0\journal_program.runtimeconfig.json
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\bin\Debug\net8.0\journal_program.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\bin\Debug\net8.0\journal_program.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.AssemblyInfoInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.AssemblyInfo.cs
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.csproj.CoreCompileInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.sourcelink.json
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\refint\journal_program.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\journal_program.genruntimeconfig.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\ref\journal_program.dll
