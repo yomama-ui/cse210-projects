@@ -1,0 +1,5 @@
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\JournalProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\JournalProgram.AssemblyInfoInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\JournalProgram.AssemblyInfo.cs
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\JournalProgram.csproj.CoreCompileInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\JournalProgram\obj\Debug\net8.0\JournalProgram.sourcelink.json
