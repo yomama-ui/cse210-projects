@@ -1,0 +1,15 @@
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\bin\Debug\net8.0\fraction_program.exe
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\bin\Debug\net8.0\fraction_program.deps.json
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\bin\Debug\net8.0\fraction_program.runtimeconfig.json
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\bin\Debug\net8.0\fraction_program.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\bin\Debug\net8.0\fraction_program.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.AssemblyInfoInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.AssemblyInfo.cs
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.csproj.CoreCompileInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.sourcelink.json
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\refint\fraction_program.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\fraction_program.genruntimeconfig.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\Fraction_Project\obj\Debug\net8.0\ref\fraction_program.dll
