@@ -1,0 +1,15 @@
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\bin\Debug\net8.0\mindfulness.exe
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\bin\Debug\net8.0\mindfulness.deps.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\bin\Debug\net8.0\mindfulness.runtimeconfig.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\bin\Debug\net8.0\mindfulness.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\bin\Debug\net8.0\mindfulness.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.AssemblyInfoInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.AssemblyInfo.cs
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.csproj.CoreCompileInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.sourcelink.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\refint\mindfulness.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\mindfulness.genruntimeconfig.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week05\Mindfulness\obj\Debug\net8.0\ref\mindfulness.dll
