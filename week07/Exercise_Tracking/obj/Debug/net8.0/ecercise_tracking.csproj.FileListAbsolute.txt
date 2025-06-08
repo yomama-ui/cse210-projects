@@ -1,0 +1,15 @@
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\bin\Debug\net8.0\ecercise_tracking.exe
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\bin\Debug\net8.0\ecercise_tracking.deps.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\bin\Debug\net8.0\ecercise_tracking.runtimeconfig.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\bin\Debug\net8.0\ecercise_tracking.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\bin\Debug\net8.0\ecercise_tracking.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.AssemblyInfoInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.AssemblyInfo.cs
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.csproj.CoreCompileInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.sourcelink.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\refint\ecercise_tracking.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ecercise_tracking.genruntimeconfig.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week07\Exercise_Tracking\obj\Debug\net8.0\ref\ecercise_tracking.dll
