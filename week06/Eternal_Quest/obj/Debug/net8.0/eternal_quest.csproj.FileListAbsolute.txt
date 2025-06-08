@@ -1,0 +1,15 @@
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\bin\Debug\net8.0\eternal_quest.exe
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\bin\Debug\net8.0\eternal_quest.deps.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\bin\Debug\net8.0\eternal_quest.runtimeconfig.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\bin\Debug\net8.0\eternal_quest.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\bin\Debug\net8.0\eternal_quest.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.AssemblyInfoInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.AssemblyInfo.cs
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.csproj.CoreCompileInputs.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.sourcelink.json
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\refint\eternal_quest.dll
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.pdb
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\eternal_quest.genruntimeconfig.cache
+C:\Users\echar\Desktop\cse210\cse210-projects\week06\Eternal_Quest\obj\Debug\net8.0\ref\eternal_quest.dll
